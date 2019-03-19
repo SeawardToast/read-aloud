@@ -1,0 +1,11 @@
+/home/aidan/Development/readAloudcs/bin/Debug/netcoreapp2.2/readAloudcs.deps.json
+/home/aidan/Development/readAloudcs/bin/Debug/netcoreapp2.2/readAloudcs.runtimeconfig.json
+/home/aidan/Development/readAloudcs/bin/Debug/netcoreapp2.2/readAloudcs.runtimeconfig.dev.json
+/home/aidan/Development/readAloudcs/bin/Debug/netcoreapp2.2/readAloudcs.dll
+/home/aidan/Development/readAloudcs/bin/Debug/netcoreapp2.2/readAloudcs.pdb
+/home/aidan/Development/readAloudcs/obj/Debug/netcoreapp2.2/readAloudcs.csprojAssemblyReference.cache
+/home/aidan/Development/readAloudcs/obj/Debug/netcoreapp2.2/readAloudcs.csproj.CoreCompileInputs.cache
+/home/aidan/Development/readAloudcs/obj/Debug/netcoreapp2.2/readAloudcs.AssemblyInfoInputs.cache
+/home/aidan/Development/readAloudcs/obj/Debug/netcoreapp2.2/readAloudcs.AssemblyInfo.cs
+/home/aidan/Development/readAloudcs/obj/Debug/netcoreapp2.2/readAloudcs.dll
+/home/aidan/Development/readAloudcs/obj/Debug/netcoreapp2.2/readAloudcs.pdb
